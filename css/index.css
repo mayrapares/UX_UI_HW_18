@@ -152,13 +152,18 @@ nav ul li:hover { color: whitesmoke; }
     color: #DF8632;
 }
 
-.main button {
+button {
     background-color: #DF8632;
     transition: 0.3s;
+    padding: 15px;
+    color: whitesmoke;
+    font-size: 15px;
+    border-radius: 4px;
 }
 
-.main button:hover {
+button:hover {
     background-color: whitesmoke;
+    color: black;
 }
 
 .main img {
